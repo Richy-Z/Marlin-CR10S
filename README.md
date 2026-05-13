@@ -1,17 +1,11 @@
-<p align="center"><img src="buildroot/share/pixmaps/logo/marlin-numelon-500.png" width="100%" alt="MarlinFirmware's logo" /></p>
-
 <h1 align="center">Marlin 2.x for the Creality CR-10S</h1>
 
 <p align="center">
     <a href="/LICENSE"><img alt="GPL-V3.0 License" src="https://img.shields.io/github/license/marlinfirmware/marlin.svg"></a>
-    <a href="https://github.com/numelon-oss/Marlin-CR10S/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/numelon-oss/marlin-cr10s.svg"></a>
-    <!--<a href="https://github.com/sponsors/Numelon-Softworks"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Numelon-Softworks"></a> -->
-    <a href="https://github.com/numelon-oss/Marlin-CR10S/releases"><img alt="Last Release Date" src="https://img.shields.io/github/release-date/numelon-oss/Marlin-CR10S"></a>
-    <!-- <a href="https://github.com/MarlinFirmware/Marlin/actions"><img alt="CI Status" src="https://github.com/MarlinFirmware/Marlin/actions/workflows/test-builds.yml/badge.svg"></a> -->
+    <a href="https://github.com/Richy-Z/Marlin-CR10S/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/Richy-Z/marlin-cr10s.svg"></a>
+    <a href="https://github.com/Richy-Z/Marlin-CR10S/releases"><img alt="Last Release Date" src="https://img.shields.io/github/release-date/Richy-Z/Marlin-CR10S"></a>
     <br />
 </p>
-
-**This README is currently under construction. 🤭**
 
 The name of this repository is quite self-explanatory: Marlin-CR10S is Marlin 2.x firmware for the Creality CR-10S 3D Printer which, by default, has the Creality V2.2 Motherboard installed.
 
